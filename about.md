@@ -5,7 +5,7 @@ This is just a temporary page (not TEMPORA). I'm searching for a cheap shared ho
 
 //
 
-Contact me or confuse me: Kraneberru at Disroot.org.
+Contact me or confuse me: Kraneberru at Disroot.org
 
 Pretty good privacy: [https://keys.openpgp.org/vks/v1/by-fingerprint/06DA70F743504ECC7B657FC3297B1E9C8850D1C9](https://keys.openpgp.org/vks/v1/by-fingerprint/06DA70F743504ECC7B657FC3297B1E9C8850D1C9)
 
