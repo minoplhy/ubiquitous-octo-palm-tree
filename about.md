@@ -1,7 +1,7 @@
 # Who Am I?
 I don;t know
 
-This is just a temporary page (not TEMPORA). I'm searching for a cheap shared hosting provider because I have a low budget, so don't DDOS ME!
+This is just a temporary page (not TEMPORA). I'm searching for a cheap shared-hosting provider because I have a low budget, so don't DDOS ME!
 
 //
 
