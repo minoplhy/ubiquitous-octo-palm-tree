@@ -1,0 +1,2 @@
+# if i found some great shared-hosting Providers this Repository will be archived
+alive = 1
